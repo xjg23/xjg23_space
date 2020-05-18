@@ -4,5 +4,5 @@
 
 > Practice Now!
 
-[GitHub](https://github.com/xjg23/test)
+[GitHub](https://github.com/xjg23/xjg23_space)
 [Getting Started](#xjg23)
