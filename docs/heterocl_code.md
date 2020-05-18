@@ -1,8 +1,8 @@
 # HeteroCL code and tutorial
 
-https://github.com/cornell-zhang/heterocl  
+https://github.com/cornell-zhang/heterocl 
 ## 1. install  
-git clone --recursive https://github.com/cornell-zhang/heterocl.git  
+git clone --recursive https://github.com/cornell-zhang/heterocl.git< br>
 make -j8  
 会检查cmake和llvm的版本是否ok，在pks/cmake/Makefile中进行，下载较慢，可以先下载  
 mkdir build/pkgs/cmake/build  
