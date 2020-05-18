@@ -1,3 +1,5 @@
-- Getting started
 
-  - [Guide](guide.md "The greatest guide in the world")
+- [HeteroCL]
+
+  - [paper](heterocl_paper.md)
+  - [code](heterocl_code.md)
