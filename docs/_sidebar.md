@@ -1,5 +1,6 @@
 
 - [TODO](TODO.md)
+- [Python Book](python_book.md)
 - HeteroCL
   - [paper](heterocl_paper.md)
   - [code](heterocl_code.md)
