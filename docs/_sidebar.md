@@ -5,3 +5,4 @@
   - [code](heterocl_code.md)
 - TVM
   - [summary](tvm.md)
+  - [walk-through](walk-through.md)

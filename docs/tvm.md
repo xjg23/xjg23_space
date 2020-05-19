@@ -10,6 +10,10 @@ onnx、nnef、NVDLA开源编译器
   
 ## 好的课程：  
 CS217 of Stanford，Hardware/Software Co-Optimization for Machine Learning；唐杉 公众号StarryHeavensAbove有讲义推荐https://zhuanlan.zhihu.com/p/51791683  
+(唐杉文章https://zhuanlan.zhihu.com/p/30979859
+https://zhuanlan.zhihu.com/p/29866226)
+https://github.com/cs217/cs217.github.io
+https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk
 华盛顿大学关于硬件加速的课程https://courses.cs.washington.edu/courses/cse599s/18sp/  
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://dlsys.cs.washington.edu/pdf/lecture7.pdf  
   
