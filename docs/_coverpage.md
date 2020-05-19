@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](icon.svg)
 
 # xjg23 <small>space</small>
 
