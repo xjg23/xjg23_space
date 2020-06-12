@@ -7,3 +7,5 @@
 - TVM
   - [summary](tvm.md)
   - [walk-through](walk-through.md)
+- SLAM
+  - [doc](slam.md)
