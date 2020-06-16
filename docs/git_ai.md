@@ -29,3 +29,6 @@ https://www.cnblogs.com/wujianming-110117/p/12573719.html
 论文链接：https://arxiv.org/pdf/2002.11616.pdf   
 The source code is released in：https://github.com/Mukosame/ZoomingSlowMo-CVPR-2020   
   
+## AI用于视频目标分割
+DAVIS Challenge on Video Object Segmentation 2020
+https://davischallenge.org/challenge2020/publications.html
