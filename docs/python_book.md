@@ -1,4 +1,3 @@
-# Python selected books  
 
 ## python官网推荐  
 https://pythonbooks.org/  

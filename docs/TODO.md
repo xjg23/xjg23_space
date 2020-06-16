@@ -1,5 +1,24 @@
 
-## 0. 每天做LeetCode  
+## 0. 基础能力
+ 做LeetCode  
+ C++基础
+ python基础
+
+## 1. 模型优化(编译)  
+ tensorflow Graph Transform Tool (https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md)  
+ tensorflow grapper(https://www.tensorflow.org/guide/graph_optimization)  
+ tvm 整体框架和编译优化部分(后端)  
+ woodpecker fpga编译优化及了解训练支持  
+ 了解PAI Blade的优化工作(ATA)
+
+## 2. 模型压缩
+ 看湖菱总结的模型压缩的lark(gemmlowp())
+https://github.com/tensorpack/tensorpackgemmlowp()
+
+
+## 3. 加速器设计  
+ 以框架为主(如何tradeoff) 几篇著名的论文
+ 自己在这方面的工作
 
 ## 1.  supertile，convolution  
 本周完成，写乘法矩阵的工程，仿真，综合，最好搭一个简单的工程，连上dma ipu 、pe ipu、驱动和dpdk上层来做测试。  

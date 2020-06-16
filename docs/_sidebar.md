@@ -1,11 +1,17 @@
 
 - [TODO](TODO.md)
+- [HLS]
+  - [paper](hls_paper.md)
+  - [design](hls_design.md)
 - [Python Book](python_book.md)
-- HeteroCL
+- [HeteroCL]
   - [paper](heterocl_paper.md)
   - [code](heterocl_code.md)
-- TVM
+- [TVM]
   - [summary](tvm.md)
   - [walk-through](walk-through.md)
-- SLAM
+- [SLAM]
   - [doc](slam.md)
+- [Github]
+  - [AI](git_ai.md)
+  - [Hardware](git_hardware.md)
