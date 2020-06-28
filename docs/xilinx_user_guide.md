@@ -6,6 +6,11 @@
 ## ug949-vivado-design-methodology  
 在ch5 Design Closure中有关于congestion的介绍“Resuce net delay caused by congestion”, 该部分解释congestion的定义和理解  
 在“applying common timing closure techniques”中“addressing congestion”给出了congestion的解决指导.  
+在这个AR中也有关于congestion：
+https://www.xilinx.com/support/answers/66314.html
+
+在“SSI Technology consideration”中介绍了关于跨die的优化措施
+
   
 ## ug906-vivado-design-analysis  
 在ch3 implementation result analysis features中“report design analysis”有关于complexity report和congestion report  
