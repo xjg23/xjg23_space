@@ -9,8 +9,9 @@
 在这个AR中也有关于congestion：
 https://www.xilinx.com/support/answers/66314.html
 
-在“SSI Technology consideration”中介绍了关于跨die的优化措施
+在“SSI Technology consideration”中介绍了关于跨die的优化措施, 包括floor planning中的soft pblocks措施。
 
   
 ## ug906-vivado-design-analysis  
 在ch3 implementation result analysis features中“report design analysis”有关于complexity report和congestion report  
+在ch7 “Floorplanning With Stacked Silicon Interconnect(SSI) Devices”介绍关于跨die设计中通过Soft SLR Floorplan Constraints进行约束的措施。

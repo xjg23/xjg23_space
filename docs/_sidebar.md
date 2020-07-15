@@ -5,9 +5,9 @@
 - [HLS]
   - [paper](hls_paper.md)
   - [design](hls_design.md)
-- [Python Book](python_book.md)
+- [Python Book](python_boo
 - [HeteroCL]
-  - [paper](heterocl_paper.md)
+  - [paper](heterocl_paper.md
   - [code](heterocl_code.md)
 - [TVM]
   - [summary](tvm.md)
@@ -17,3 +17,5 @@
 - [Github]
   - [AI](git_ai.md)
   - [Hardware](git_hardware.md)
+- [Compiler]
+  - [tf2tensorrt](tf2tensorrt.md)
