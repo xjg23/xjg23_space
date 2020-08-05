@@ -9,6 +9,7 @@ https://github.com/NVIDIA/TensorRT
 ## doc  
 Nvidia关于tf2tensorrt的介绍
 https://developer.nvidia.com/blog/tensorrt-integration-speeds-tensorflow-inference/  
+https://medium.com/tensorflow/high-performance-inference-with-tensorrt-integration-c4d78795fbfe
 https://developer.nvidia.com/tensorrt
 https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html
 
@@ -17,3 +18,4 @@ This method accelerates a TensorFlow graph with TensorRT even if there are Tenso
 
 TF-TRT examples: https://github.com/tensorflow/tensorrt
 TF-TRT User Guide: https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html
+
