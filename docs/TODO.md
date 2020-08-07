@@ -11,6 +11,8 @@
  woodpecker fpga编译优化及了解训练支持  
  了解PAI Blade的优化工作(ATA)
 
+  tvm+halide, tensorrt, grappler, xla, OneDNN/OpenVINO, tensor comprehensions etc. 
+
 ## 2. 模型压缩
  看湖菱总结的模型压缩的lark(gemmlowp())
 https://github.com/tensorpack/tensorpackgemmlowp()
