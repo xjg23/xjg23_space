@@ -32,3 +32,12 @@ The source code is released in：https://github.com/Mukosame/ZoomingSlowMo-CVPR-
 ## AI用于视频目标分割
 DAVIS Challenge on Video Object Segmentation 2020
 https://davischallenge.org/challenge2020/publications.html
+
+
+## Reinforcement Learning 
+http://karpathy.github.io/2016/05/31/rl/
+This is a long overdue blog post on Reinforcement Learning (RL). RL is hot! You may have noticed that computers can now automatically learn to play ATARI games (from raw game pixels!), they are beating world champions at Go, simulated quadrupeds are learning to run and leap, and robots are learning how to perform complex manipulation tasks that defy explicit programming. It turns out that all of these advances fall under the umbrella of RL research. I also became interested in RL myself over the last ~year: I worked through Richard Sutton’s book, read through David Silver’s course, watched John Schulmann’s lectures, wrote an RL library in Javascript, over the summer interned at DeepMind working in the DeepRL group, and most recently pitched in a little with the design/development of OpenAI Gym, a new RL benchmarking toolkit. So I’ve certainly been on this funwagon for at least a year but until now I haven’t gotten around to writing up a short post on why RL is a big deal, what it’s about, how it all developed and where it might be going.
+[Richard Sutton’s book]: https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
+[David Silver’s cours]: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+[John Schulmann’s lectures]: https://www.youtube.com/watch?v=oPGVsoBonLM
+
