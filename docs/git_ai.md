@@ -41,3 +41,9 @@ This is a long overdue blog post on Reinforcement Learning (RL). RL is hot! You 
 [David Silver’s cours]: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 [John Schulmann’s lectures]: https://www.youtube.com/watch?v=oPGVsoBonLM
 
+
+## 关于量化与模型压缩(待整理)
+https://github.com/Xilinx/graffitist
+《TRAINEDQUANTIZATIONTHRESHOLDS FORACCURATE ANDEFFICIENTFIXED-POINTINFERENCE OFDEEPNEURALNETWORKS》
+本文是xilinx的4bit量化工具和paper
+
