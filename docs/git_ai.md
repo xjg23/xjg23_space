@@ -1,4 +1,9 @@
 # 记录开源项目和前沿paper   
+
+## tensorflow源码解析blog
+https://www.cnblogs.com/jicanghai/p/9589412.html
+https://github.com/tengkz/tensorflow_notes
+https://github.com/Yunlong-He/TensorFlowInternals
   
 ## 腾讯TNN  
 https://github.com/Tencent/TNN   
