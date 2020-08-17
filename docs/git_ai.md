@@ -4,6 +4,9 @@
 https://www.cnblogs.com/jicanghai/p/9589412.html
 https://github.com/tengkz/tensorflow_notes
 https://github.com/Yunlong-He/TensorFlowInternals
+
+## 分布式训练做的比较不错的framework
+uber的https://github.com/horovod/horovod
   
 ## 腾讯TNN  
 https://github.com/Tencent/TNN   
