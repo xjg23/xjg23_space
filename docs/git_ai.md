@@ -55,3 +55,6 @@ https://github.com/Xilinx/graffitist
 《TRAINEDQUANTIZATIONTHRESHOLDS FORACCURATE ANDEFFICIENTFIXED-POINTINFERENCE OFDEEPNEURALNETWORKS》
 本文是xilinx的4bit量化工具和paper
 
+## 关于pybind11
+https://github.com/tensorflow/community/blob/master/rfcs/20190208-pybind11.md#replace-swig-with-pybind11
+
