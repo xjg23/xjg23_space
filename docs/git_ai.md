@@ -58,3 +58,10 @@ https://github.com/Xilinx/graffitist
 ## 关于pybind11
 https://github.com/tensorflow/community/blob/master/rfcs/20190208-pybind11.md#replace-swig-with-pybind11
 
+## 关于convolution layer 和 deconvolution layer的可视化项目
+https://github.com/vdumoulin/conv_arithmetic
+https://blog.csdn.net/u013139259/article/details/53318477
+https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf
+https://arxiv.org/pdf/1603.07285.pdf
+https://medium.com/@_init_/an-illustrated-explanation-of-performing-2d-convolutions-using-matrix-multiplications-1e8de8cd2544
+https://cs231n.github.io/convolutional-networks/#conv
