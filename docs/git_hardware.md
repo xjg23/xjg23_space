@@ -24,3 +24,4 @@ S2C公司的Prodigy系列，Single VU440
 国内的公司如亚科宏宇的VeriTiger系列等。
 目前市面上在售的原型平台使用的最大容量FPGA是Xilinx的VU440（Virtex UltraScal 440，20nm工艺），
 单颗FPGA芯片可以容纳的芯片门数是26~30Million，一般为了容纳更大的SoC芯片设计，会采用多颗芯片级联。
+https://developer.aliyun.com/article/740415
