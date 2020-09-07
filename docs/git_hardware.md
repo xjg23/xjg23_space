@@ -13,3 +13,7 @@ https://zhuanlan.zhihu.com/DNN-on-Chip
 ## Eyeriss in MIT  
 http://eyeriss.mit.edu/tutorial.html  
 http://www-mtl.mit.edu/wpmu/tutorial/  
+
+## 芯片验证平台
+硬件仿真加速器，例如Mentor的Veloce，Synopsy的ZeBu，Candance的Palladium
+Synopsy基于fpga的平台：HAPS 原型验证解决方案
