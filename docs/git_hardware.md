@@ -25,3 +25,16 @@ S2C公司的Prodigy系列，Single VU440
 目前市面上在售的原型平台使用的最大容量FPGA是Xilinx的VU440（Virtex UltraScal 440，20nm工艺），
 单颗FPGA芯片可以容纳的芯片门数是26~30Million，一般为了容纳更大的SoC芯片设计，会采用多颗芯片级联。
 https://developer.aliyun.com/article/740415
+
+## 新的HLS平台和paper
+by Shan Tang linkedinDo you know with reinforcement learning, the design team at #synopsys can speed physical design by 86%? Isn't the idea of using #AI to build a better AI chip fascinating? Are you ready to challenge Isaac Asimov's Three Laws of Robotics?
+
+Read the latest industry report on the adoption of AI in chip design. Available in Chinese & English: https://bit.ly/30O7HjG
+
+XLS, https://lnkd.in/g22JFeS, a very interesting open-source high-level synthesis project. In parallel, CIRCT (Circuit IR Compilers and Tools) project, https://lnkd.in/g7j-P2Z, is from the software/compiler community trying to re-do EDA tasks with ideas of multi-level IR. Will these new players change something of EDA industry?
+Do you know with reinforcement learning, the design team at #synopsys can speed physical design by 86%? Isn't the idea of using #AI to build a better AI chip fascinating? Are you ready to challenge Isaac Asimov's Three Laws of Robotics?
+Read the latest industry report on the adoption of AI in chip design. Available in Chinese & English: https://bit.ly/30O7HjG
+
+
+https://google.github.io/xls/
+https://github.com/llvm/circt
