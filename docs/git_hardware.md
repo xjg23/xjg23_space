@@ -27,7 +27,8 @@ S2C公司的Prodigy系列，Single VU440
 https://developer.aliyun.com/article/740415
 
 ## 新的HLS平台和paper
-by Shan Tang linkedinDo you know with reinforcement learning, the design team at #synopsys can speed physical design by 86%? Isn't the idea of using #AI to build a better AI chip fascinating? Are you ready to challenge Isaac Asimov's Three Laws of Robotics?
+by Shan Tang linkedin
+Do you know with reinforcement learning, the design team at #synopsys can speed physical design by 86%? Isn't the idea of using #AI to build a better AI chip fascinating? Are you ready to challenge Isaac Asimov's Three Laws of Robotics?
 
 Read the latest industry report on the adoption of AI in chip design. Available in Chinese & English: https://bit.ly/30O7HjG
 
