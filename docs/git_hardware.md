@@ -36,6 +36,20 @@ XLS, https://lnkd.in/g22JFeS, a very interesting open-source high-level synthesi
 Do you know with reinforcement learning, the design team at #synopsys can speed physical design by 86%? Isn't the idea of using #AI to build a better AI chip fascinating? Are you ready to challenge Isaac Asimov's Three Laws of Robotics?
 Read the latest industry report on the adoption of AI in chip design. Available in Chinese & English: https://bit.ly/30O7HjG
 
-
 https://google.github.io/xls/
 https://github.com/llvm/circt
+
+by Shan Tang
+最近开源EDA和IP领域确实有些新鲜有趣的东西，感觉背后有两大推动力量，RISCV和Google。前者的生态(包括DSL Chisel/FIRRTL，开源工具和IP)。随着ARM的不确定性增大会有更多玩家参与。后者具有超强的软件技术和开源执行力，而且越来越关注硬件。
+EDA的核心就是DSL，compiler和verification(包括formal)，加上flow，是软件工程+硬件的domain knowledge，似乎现在的google连后者都不缺了。
+
+Chisel/FIRRTL Hardware Compiler Framework
+https://www.chisel-lang.org/
+
+https://stackoverflow.com/questions/53007782/what-benefits-does-chisel-offer-over-classic-hardware-description-languages
+What benefits does Chisel offer over classic Hardware Description Languages? [closed]
+
+https://symbiflow.github.io/
+SymbiFlow is a fully open source toolchain for the development of FPGAs of multiple vendors. Currently, it targets the Xilinx 7-Series, Lattice iCE40, Lattice ECP5 FPGAs, QuickLogic EOS S3 and is gradually being expanded to provide a comprehensive end-to-end FPGA synthesis flow.
+
+
