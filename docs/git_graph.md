@@ -3,6 +3,8 @@
 https://www.zhihu.com/question/49889826
 链接：https://www.zhihu.com/question/49889826/answer/148332420
 来源：知乎
+
+OSDI 国内3篇文章 zhuxiaowei 上交chenhaibo 还有zhangmingxing
 仅从发表的论文级别看，据我所知，国内有这些研究机构在图处理系统这块做不错：
 ## 1. 清华大学， 陈文光老师发表的系统GridGraph[1]    Gemini[2]   
 [1] Zhu X, Han W, Chen W. GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning[C]//USENIX Annual Technical Conference. 2015: 375-386.
@@ -47,4 +49,8 @@ Graph Engine
 
 国外的组，我现在看到的：EPFL-LABOS，操作系统实验室Graph Analytics
 剑桥和马普所合作的Musketeer团队Musketeer - By CamSaS
-伯克利的：LigraLigra
+伯克利的：LigraLigra 首次提出了图计算
+
+sosp
+osdi
+系统顶会
