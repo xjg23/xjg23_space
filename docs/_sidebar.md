@@ -5,6 +5,7 @@
 - [HLS]
   - [paper](hls_paper.md)
   - [design](hls_design.md)
+  - [tutorial](hls_tutorial.md)
 - [Python Book](python_boo
 - [HeteroCL]
   - [paper](heterocl_paper.md
