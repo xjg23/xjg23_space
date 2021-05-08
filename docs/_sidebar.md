@@ -1,5 +1,6 @@
 
 - [TODO](TODO.md)
+- [GUIDE](guide.md)
 - [Logic Design]
   - [User Guide](xilinx_user_guide.md)
 - [HLS]
