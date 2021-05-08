@@ -11,4 +11,5 @@ Slides:
 Example code:  
   https://github.com/spcl/hls_tutorial_examples  
 HLS extensions:  
-  https://github.com/definelicht/hlslib
+  https://github.com/definelicht/hlslib  
+  https://arxiv.org/abs/1910.04436  
