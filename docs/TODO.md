@@ -3,6 +3,14 @@
  做LeetCode  
  C++基础
  python基础
+https://github.com/ethsonliu/stackoverflow-top-cpp  
+https://stackoverflow.com/questions/tagged/c%2b%2b?tab=Votes  
+https://stackoverflow.com/questions/tagged/c?tab=Votes  
+https://blog.csdn.net/libaineu2004/category_10086250.html  
+
+leetcode
+https://libaineu2004.blog.csdn.net/article/details/106865406
+https://books.halfrost.com/leetcode/
 
 ## 1. 模型优化(编译)  
  tensorflow Graph Transform Tool (https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md)  
