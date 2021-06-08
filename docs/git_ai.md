@@ -1,5 +1,9 @@
 # 记录开源项目和前沿paper   
 
+## 论文目录
+https://github.com/qiulinzhang/TopPaper.git
+http://redstonewill.com/
+
 ## tensorflow源码解析blog
 https://www.cnblogs.com/jicanghai/p/9589412.html
 https://github.com/tengkz/tensorflow_notes
