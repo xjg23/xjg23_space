@@ -3,10 +3,14 @@
 ## HE for AI
 intel 
 《nGraph-HE: A Graph Compiler for DeepLearning on Homomorphically Encrypted Data》
+
 microsoft 
 《CrypTFlow: Secure TensorFlow Inference》
 《CHET- Compiler and Runtime for Homomorphic Evaluation of Tensor Programs》
 《EzPC- Programmable, Efficient, and Scalable Secure Two-Party Computation for Machine Learning》
+https://github.com/mpc-msri/EzPC
+https://www.microsoft.com/en-us/research/project/ezpc-easy-secure-multi-party-computation/
+https://pratik-bhatu.medium.com/privacy-preserving-machine-learning-for-healthcare-using-cryptflow-cc6c379fbab7
 《EzPC- Programmable, Efficient, and Scalable Secure Two-Party Computation for Machine Learning》
 《SecureNN- Efficient and Private Neural Network Training》
 《A review of homomorphic encryption and software tools for encrypted statistical machine learning》
@@ -41,6 +45,18 @@ FATE：Webank，基于HE和MPC，支持LR、Tree(RF, GBDT)、DNN
 
 其他
 awesome-mpc：mpc资料集合
+https://github.com/rdragos/awesome-mpc/
 安全计算与密码学：知乎专栏
 Dropout Labs：medium专栏
 Microsoft: Security, privacy, and cryptography专栏
+
+
+## tf-encrypted
+https://github.com/tf-encrypted/tf-encrypted
+https://github.com/tf-encrypted/tf-encrypted#background--further-reading
+https://blog.tensorflow.org/2019/03/introducing-tensorflow-privacy-learning.html
+
+https://github.com/tensorflow/privacy
+https://github.com/tensorflow/federated
+https://www.multipartycomputation.com/
+
