@@ -1,5 +1,6 @@
 
 - [TODO](TODO.md)
+- [JOB](JD.md)
 - [GUIDE](guide.md)
 - [Logic Design]
   - [User Guide](xilinx_user_guide.md)
@@ -25,3 +26,5 @@
   - [Graph](git_graph.md)
 - [Crypto]
   - [HE](HE.md)
+- [Virtualization]
+  - [Virtualization](virtualization.md)
