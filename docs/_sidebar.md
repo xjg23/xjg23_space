@@ -8,9 +8,9 @@
   - [paper](hls_paper.md)
   - [design](hls_design.md)
   - [tutorial](hls_tutorial.md)
-- [Python Book](python_boo
+- [Python Book](python_book.md)
 - [HeteroCL]
-  - [paper](heterocl_paper.md
+  - [paper](heterocl_paper.md)
   - [code](heterocl_code.md)
 - [TVM]
   - [summary](tvm.md)

@@ -1,5 +1,3 @@
-# Virtualization
-
 ## VirtIO vs VFIO
 https://www.kernel.org/doc/Documentation/vfio.txt
 https://www.linux-kvm.org/images/b/b4/2012-forum-VFIO.pdf
